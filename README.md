@@ -8,7 +8,7 @@ I am finishing a  data analytics course at the Karpov.Courses. I have good Panda
 Skills: Python / SQL / Tableau / Redash / Excel
 
 - 🔭 I’m currently working on my portfolio
-- 📫 How to reach me  - ezhuzhman@gmail.com, https://t.me/mAliceKate
+- 📫 How to reach me: ezhuzhman@gmail.com, https://t.me/mAliceKate
 
 
 
